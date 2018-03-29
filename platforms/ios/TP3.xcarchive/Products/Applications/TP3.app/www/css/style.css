@@ -67,12 +67,20 @@ footer p{
   margin: auto;
 }
 
+.burger, .phone{
+  display: none;
+}
+
 .nav{
   display: flex;
   padding: 0;
   list-style: none;
   width: 95%;
   margin: auto;
+}
+
+.special-menu{
+  display: none;
 }
 
 .nav .logo{
@@ -84,7 +92,7 @@ footer p{
   width: 100%;
 }
 
-.accueil, .titre, .contact, .recherche{
+.accueil-menu, .titre-menu, .contact-menu, .recherche{
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -92,16 +100,16 @@ footer p{
   color:white;
 }
 
-.titre{
+.titre-menu{
   margin-left: 10px;
   margin-right: 10px;
 }
 
-.titre::after, .titre::before{
+.titre-menu::after, .titre-menu::before{
   content: "|";
 }
 
-.titre a{
+.titre-menu a{
   padding-right: 10px;
   padding-left: 10px;
 }
@@ -317,7 +325,7 @@ footer p{
 
   }
 
-  .accueil{
+  .accueil-menu{
     margin-left: auto;
   }
 
@@ -371,6 +379,92 @@ footer p{
     height: 100px;
   }
 
+  .special-menu{
+    z-index: 3;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(255,255,255,0.7);
+  }
+
+  .special-menu-in{
+    display: flex;
+    flex-direction: column;
+  }
+  .special-menu-in > div > a{
+    color: white;
+    z-index: 4;
+    font-family: Vans;
+  }
+
+  .accueil{
+    margin-top: auto;
+  }
+  .titre{
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  .contact{
+    margin-bottom: auto;
+  }
+
+  .accueil-menu, .titre-menu, .contact-menu {
+    display: none;
+  }
+
+  .titre-menu::after, .titre-menu::before{
+    content: none;
+  }
+
+  .recherche{
+    display: none;
+  }
+
+  .burger{
+    display: flex;
+    order: -1;
+  }
+
+  .logo{
+    order: 0;
+    flex: 0 0 0;
+    margin-left: auto;
+  }
+
+  .phone{
+    display: flex;
+    order: 1;
+  }
+
+  .container {
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  .bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+  .change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+  }
+
+  .change .bar2 {
+    opacity: 0;
+  }
+
+  .change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+  }
+
   .cover{
     margin-top: 100px;
   }
@@ -405,6 +499,10 @@ footer p{
 
   #form textarea{
     border: 1px lightgrey solid;
+  }
+
+  footer p{
+    font-size: 15px;
   }
 
 

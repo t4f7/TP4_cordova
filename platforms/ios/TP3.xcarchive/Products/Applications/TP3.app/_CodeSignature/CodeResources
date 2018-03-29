@@ -86,11 +86,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		KpKGg5jZyYLcBq8aGdZMWerfWvc=
+		0xilR1gwIw5Tag6dF98L890dmPI=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		OwznkUZe3zsL04Sion8NJac5jkM=
+		Jra3keNs9Kad7mXGEN+z8DgMjuY=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		1qGejogK28KqprrTrh23ohKXdns=
+		71+Kc6n6T+c9GsZnY74qLsex7AY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		EnRvNx1AdqpdrFprrE8dQdpmF5E=
+		2Ez7YJntEkLiJkM8Zk/OVU7Gw5o=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		HxIxLAaxmw+pex6FtodY1zkxiDw=
+		gKAu2PhDaQoUF56UMx2GDcxTA1o=
 		</data>
 		<key>www/Peinture Fraiche.ttf</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>www/css/style.css</key>
 		<data>
-		/syL4yI9//qSdFJzl27VeWTaVQQ=
+		3Hd+hUhRROq0fxAJdNoXYHOqSU4=
 		</data>
 		<key>www/images/Page.htm</key>
 		<data>
@@ -404,6 +404,18 @@
 		<data>
 		yKhJWvNRWuQJRjNxeY043AkziL8=
 		</data>
+		<key>www/images/phone.png</key>
+		<data>
+		SzijrS5iWPtBcUT80oe2jbxKPMY=
+		</data>
+		<key>www/images/phone.psd</key>
+		<data>
+		Zi7R3IyB9CGyCyH54l4qIfb4o1E=
+		</data>
+		<key>www/images/phone.svg</key>
+		<data>
+		pNpHptUWKK3ypojBbrr3fxOJhxM=
+		</data>
 		<key>www/images/test.jpeg</key>
 		<data>
 		3ALk//RQpjBuBF9cJoAc4xw++us=
@@ -436,17 +448,17 @@
 		<data>
 		G6HVh8MgFK2WI3FH8nVr1sRQe/g=
 		</data>
-		<key>www/img/logo.png</key>
-		<data>
-		MW0GF0+VJyF3L6n2kH6NKUswUL0=
-		</data>
 		<key>www/index.html</key>
 		<data>
-		AH17F4iN2PyHIF2SxkRQyOVlSs8=
+		9OG6jGdmoa+Bo3xz8M4XwlBKERs=
 		</data>
 		<key>www/js/index.js</key>
 		<data>
-		VvGJtlwxe7yThwm8W/ULK665sIQ=
+		i5ERulyGjYRf/4TPs8ns6Etlbws=
+		</data>
+		<key>www/js/jquery.js</key>
+		<data>
+		DcMttKqcXwPzs4xH2IPb1P7ROq4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -675,22 +687,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KpKGg5jZyYLcBq8aGdZMWerfWvc=
+			0xilR1gwIw5Tag6dF98L890dmPI=
 			</data>
 			<key>hash2</key>
 			<data>
-			2JyjR40s/yKM9o23Xlzu0KJ+58Dmt72p//GkoILlrN8=
+			mdVGgpcKoYrFpD+hBZGneDqxYRHSAFqyHOHYPtl6azo=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OwznkUZe3zsL04Sion8NJac5jkM=
+			Jra3keNs9Kad7mXGEN+z8DgMjuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			04idwyYajXu8dsu3GvaWNmPzP2jtgiD5amWo0pOgjMs=
+			W6zqBM/kjMPMZTAtPMqk/ouVJnW+FClYcQM9E3c0W00=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -708,11 +720,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1qGejogK28KqprrTrh23ohKXdns=
+			71+Kc6n6T+c9GsZnY74qLsex7AY=
 			</data>
 			<key>hash2</key>
 			<data>
-			o6eXSepKqCrxfuTufBhbHZChEDAIFSDtLD4rFbCf3IU=
+			7uob4ooLvvIy20lZuuMx6KiXzLKvTaUms2wsDYXhnDg=
 			</data>
 		</dict>
 		<key>LaunchImage-568h@2x.png</key>
@@ -895,11 +907,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EnRvNx1AdqpdrFprrE8dQdpmF5E=
+			2Ez7YJntEkLiJkM8Zk/OVU7Gw5o=
 			</data>
 			<key>hash2</key>
 			<data>
-			XpeCwigVL8cuXAp+tMDj3HiknBwArpRNoeVHJ0jpA7c=
+			PSFlphU4DUN8E46CNUgPidmluJ1vU7/hOZSI4+qrFog=
 			</data>
 		</dict>
 		<key>archived-expanded-entitlements.xcent</key>
@@ -928,11 +940,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HxIxLAaxmw+pex6FtodY1zkxiDw=
+			gKAu2PhDaQoUF56UMx2GDcxTA1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			5s7YTA+dWYE/TyWg7TYfWqUD3g7pzx5X4ViNCwjoBOM=
+			NShPpUodCpRtvhyWObaQ90YVOZ6zx83SRpC6NmM54AM=
 			</data>
 		</dict>
 		<key>www/Peinture Fraiche.ttf</key>
@@ -1049,11 +1061,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/syL4yI9//qSdFJzl27VeWTaVQQ=
+			3Hd+hUhRROq0fxAJdNoXYHOqSU4=
 			</data>
 			<key>hash2</key>
 			<data>
-			WXtQH0oEuQEJeHYGH8sy3blTwnRG4wmBojTutA7P+58=
+			ut9AxFwrjF9dOkULG1sM7j0n7D25m7UuP+w6qEPnCzk=
 			</data>
 		</dict>
 		<key>www/images/Page.htm</key>
@@ -1529,6 +1541,39 @@
 			HWbUHDN/IGVS0qiJKx8gxScsjUGBJMTGs7F/vMztf6c=
 			</data>
 		</dict>
+		<key>www/images/phone.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SzijrS5iWPtBcUT80oe2jbxKPMY=
+			</data>
+			<key>hash2</key>
+			<data>
+			dSQxhNz+uhZCkAdHm90hrKF5fLPiqSU6FTM4B8YXa/s=
+			</data>
+		</dict>
+		<key>www/images/phone.psd</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Zi7R3IyB9CGyCyH54l4qIfb4o1E=
+			</data>
+			<key>hash2</key>
+			<data>
+			2yk0pb9by4AKvsd3ZqC5VMY61qtHxN4/ZNDf3SW9eyg=
+			</data>
+		</dict>
+		<key>www/images/phone.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pNpHptUWKK3ypojBbrr3fxOJhxM=
+			</data>
+			<key>hash2</key>
+			<data>
+			VHNPfua9PKX/5sip95sPTv1G6M7NvXJQRDeO7dvueGo=
+			</data>
+		</dict>
 		<key>www/images/test.jpeg</key>
 		<dict>
 			<key>hash</key>
@@ -1617,37 +1662,37 @@
 			hHLFI1wUcXjIKO9cnkPpTmyF3Z+8NnVHKSySZk2Yizg=
 			</data>
 		</dict>
-		<key>www/img/logo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MW0GF0+VJyF3L6n2kH6NKUswUL0=
-			</data>
-			<key>hash2</key>
-			<data>
-			8JmHrhEr2x//0WYZDQyLdQyvokuPf/rAP06Yuah4neM=
-			</data>
-		</dict>
 		<key>www/index.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AH17F4iN2PyHIF2SxkRQyOVlSs8=
+			9OG6jGdmoa+Bo3xz8M4XwlBKERs=
 			</data>
 			<key>hash2</key>
 			<data>
-			eID3QcJp2nY9hSgdoOjwDVrPwvEFPHYw2U4km6ghjxM=
+			moQeXo2zzBvKz+eXqjMsvhLvzFrCjm9wqKNlxKtkwpw=
 			</data>
 		</dict>
 		<key>www/js/index.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VvGJtlwxe7yThwm8W/ULK665sIQ=
+			i5ERulyGjYRf/4TPs8ns6Etlbws=
 			</data>
 			<key>hash2</key>
 			<data>
-			shx4WO5iFkV9duAxUT81Zp+LfaixN2PdjQT2qsZzkQw=
+			xWLfD/Ap9JP9M1h1bbMarX3gxAuOH3BpOHqQZJY7mEM=
+			</data>
+		</dict>
+		<key>www/js/jquery.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DcMttKqcXwPzs4xH2IPb1P7ROq4=
+			</data>
+			<key>hash2</key>
+			<data>
+			FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=
 			</data>
 		</dict>
 	</dict>
